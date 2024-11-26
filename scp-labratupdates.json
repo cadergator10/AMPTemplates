@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Server",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2261800",
+        "UpdateSourceArgs": "1402020",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
