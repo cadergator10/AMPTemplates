@@ -3,6 +3,7 @@ Meta.Description=VR SCP Containment Breach
 Meta.Arch=x86_64
 Meta.Author=cadergator10 - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/1402020/SCP_Labrat/
+Meta.AppConfigId=h74h7584-l24y-9ln4-1pf6-j7554j563gb1
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
